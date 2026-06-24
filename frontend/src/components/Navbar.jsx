@@ -41,7 +41,7 @@ const Navbar = () => {
           <hr className="border-none outline-none h-0.5 bg-primary w-3/5 m-auto hidden" />
         </NavLink>
         <button
-          onClick={() => window.open("http://localhost:5174", "_blank")}
+          onClick={() => window.open("https://prescripto-admin-gaurav.vercel.app", "_blank")}
           className="border border-gray-300 px-5 py-2 rounded-full hover:bg-gray-100"
         >
           Admin Panel
