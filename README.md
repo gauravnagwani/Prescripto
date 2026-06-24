@@ -233,8 +233,3 @@ npm run dev
 * Medical Record Storage
 * Multi-Hospital Support
 
----
-
-## 🙏 Acknowledgement
-
-This project was developed while following the Prescripto MERN Stack tutorial by GreatStack and was independently configured, deployed, tested, and customized for learning and portfolio purposes.
